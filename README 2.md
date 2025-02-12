@@ -1,8 +1,14 @@
 
 
-# R2 - PresentPals Dataflow Diagram
+# R2 - PresentPals Dataflow Diagrams
 
-![Dataflow Diagram](./images/Data_Flow_2025-02-08.png)
+## Site Map / Users Access
+
+![Dataflow Diagram](./images/Dataflow%20Diagram_2.png)
+
+## Dataflow & CRUD Processes 
+
+![DF & CRUD Diagram](./images/DF%20&%20CRUD%20Diagram.png)
 
 # Details
 ## Register / Login Data
