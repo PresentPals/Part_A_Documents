@@ -6,7 +6,7 @@
 
 ![Dataflow Diagram](./images/Dataflow%20Diagram_2.png)
 
-## Dataflow & CRUD Processes 
+## Dataflow & CRUD Processes (incl authentication & authorization)
 
 ![DF & CRUD Diagram](./images/DF%20&%20CRUD%20Diagram.png)
 
