@@ -15,9 +15,9 @@
 ### Admin Users Data:
 When a user registers to access the PresentPals application they will become a administrator user by entering the following details:
 
-    - group name,
-    - user name,
-    - password.
+- group name,
+- user name,
+- password.
 
 This data will be added to the Users collection in the database creating all the following data fields:
 
