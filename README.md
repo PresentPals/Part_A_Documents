@@ -44,6 +44,7 @@ In summary, the project promotes sustainability, saves clients time and money, a
 •	[JavaScript](https://www.javascript.com/)
 •	CSS
 •	[React](https://react.dev/)
+•   [Axios](https://axios-http.com/docs/intro)   
 
 ### Back-end
 •	[Express](https://expressjs.com/)
