@@ -344,8 +344,6 @@ To gain a deeper and more nuanced understanding of our target audience, we devel
 
 *   Wants the ability to add gifts to their wishlist from external websites, providing greater flexibility in curating a comprehensive selection of desired products.
 
-# T3A2 Part A Documentation
-# PresentPals
 # R5. Wireframes
 
 The wireframes can be viewed in the [PresentPals](https://www.figma.com/design/vPTSsXFEPWThJec5qK5Bo5/PresentPals?node-id=0-1&t=GZfS7PRp5mvqkPUg-1) Figma workspace.
