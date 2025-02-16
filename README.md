@@ -13,7 +13,6 @@ Our customer's goal was to develop an application that is both meaningful and im
  - Invite Friends and Family
  - Shop by Brands - with Links to Popular Brands' websites
 
-**insert example of wire frames image here for each feature**
 
  ## Target Audience
 The platform was primarily designed with families in mind—particularly parents, grandparents, and other family members who want to make gift-giving easier and more meaningful. However, it’s also beneficial for groups beyond just families.
