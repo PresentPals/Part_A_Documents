@@ -2,7 +2,7 @@
 
 # R1 - PresentPals Description
 ---
-![Present Pals Logo](./images/PresentPals_Logo.png)
+![Present Pals Logo](./docs/PresentPals_Logo.png)
 # Purpose
 Our customer's goal was to develop an application that is both meaningful and impactful, and we believe we've achieved the perfect balance. This initiative combines environmental sustainability with cost-efficiency and time-saving benefits, offering a solution that serves both the planet and the user. We focused on four key objectives: protecting the environment, minimizing wasteful spending on unwanted gifts, simplifying the gift-giving process, and saving time. Our aim was to create an experience that’s not only useful but also intuitive and enjoyable for all users.
 
@@ -17,13 +17,13 @@ Our customer's goal was to develop an application that is both meaningful and im
  ## Target Audience
 The platform was primarily designed with families in mind—particularly parents, grandparents, and other family members who want to make gift-giving easier and more meaningful. However, it’s also beneficial for groups beyond just families.
 
-Parents and grandparents can create accounts, set up customized profiles for their children (ages 8-17), and start building personalized Wishlists. Once a wishlist is ready, the admin user (parent or grandparent) can easily share it with other family members, who can then purchase the perfect gift online directly through the provided links. It’s a simple, eco-friendly way to ensure the right gift is chosen, while saving time and reducing waste
+Parents and grandparents can create accounts, set up customized profiles for their children (ages 8-17), and start building personalised Wishlists. Once a wishlist is ready, the admin user (parent or grandparent) can easily share it with other family members, who can then purchase the perfect gift online directly through the provided links. It’s a simple, eco-friendly way to ensure the right gift is chosen, while saving time and reducing waste
 
 
 ## Key Objectives
 
 **Environmental Impact:** 
-By transitioning to a paperless system for gift lists, the platform helps significantly reduce paper waste. Traditional gift lists often require printing and can contribute to unnecessary consumption of paper, adding to landfill waste. By going digital, this system plays an active role in promoting environmental sustainability, minimizing the carbon footprint associated with producing, distributing, and discarding paper-based gift lists. In this way, it supports a more eco-friendly approach to gift giving, encouraging users to be mindful of their environmental impact.
+By transitioning to a paperless system for gift lists, the platform helps significantly reduce paper waste. Traditional gift lists often require printing and can contribute to unnecessary consumption of paper, adding to landfill waste. By going digital, this system plays an active role in promoting environmental sustainability, minimising the carbon footprint associated with producing, distributing, and discarding paper-based gift lists. In this way, it supports a more eco-friendly approach to gift giving, encouraging users to be mindful of their environmental impact.
 
 **Cost-Effective Gift Giving:** 
 The platform allows users to create personalised and precise gift lists tailored to each individual’s preferences, minimising the likelihood of purchasing unwanted, duplicate, or inappropriate gifts. By narrowing down the options, it helps families and groups avoid spending money on items that won't be appreciated, ultimately saving money and reducing waste. This cost-effective approach encourages thoughtful and practical gift-giving, ensuring that every purchase is meaningful, purposeful—both financially and budget friendly and environmentally.
@@ -85,21 +85,21 @@ The PresentPals dev team will be using Git & Github for version control:
 
 #### View via this link: [PresentPals Github Repository](https://github.com/PresentPals)
 
-![Github repo image](./images/Github%20repo%20image.png)
+![Github repo image](./docs/Github%20repo%20image.png)
     
 The team will store code repositories of the applications main source code, development code branch and individual dev team task branches working on. This image will explain the version control process:
 
-![Version control process](./images/Github%20diagram.png)
+![Version control process](./docs/Github%20diagram.png)
 
 # R2 - PresentPals Dataflow Diagrams
 
 ## Site Map / Users Access
 
-![Dataflow Diagram](./images/Dataflow%20Diagram_2.png)
+![Dataflow Diagram](./docs/Dataflow%20Diagram_2.png)
 
 ## Dataflow & CRUD Processes (incl authentication & authorization)
 
-![DF & CRUD Diagram](./images/DF%20&%20CRUD%20Diagram.png)
+![DF & CRUD Diagram](./docs/DF%20&%20CRUD%20Diagram.png)
 
 
 # Details
@@ -200,7 +200,7 @@ The delete gift list function will delete all these data fields for the selected
 
 # R3 - Application Architecture Diagram
 
-![App Architecture Diagram](./images/Application%20Architecture%20Diagram%202025-02-08.png)
+![App Architecture Diagram](./docs/Application%20Architecture%20Diagram%202025-02-08.png)
 
 # Details
 ## User Web Browser
@@ -296,12 +296,12 @@ In order to ensure that our application would meet the needs and expectations of
 ## PresentPals User Personas
 To gain a deeper and more nuanced understanding of our target audience, we developed detailed User Personas. This approach enabled us to more effectively identify and analyse the goals, motivations, and specific needs of our users, ensuring that the application would be designed to meet their expectations and deliver a tailored, user-centric experience.
 
-![User_Profile_1 Adult Female](./images/User_Profile_1.png)
-![User_Profile_2 Adult Male](./images/User_Profile_2.png)
-![User_Profile_3 Child Female 17](./images/User_Profile_3.png)
-![User_Profile_4 Child Male 15](./images/User_Profile_4.png)
-![User_Profile_5 Child Female 13](./images/User_Profile_5.png)
-![User_Profile_6 ChildFemale 8](./images/User_Profile_6.png)
+![User_Profile_1 Adult Female](./docs/User_Profile_1.png)
+![User_Profile_2 Adult Male](./docs/User_Profile_2.png)
+![User_Profile_3 Child Female 17](./docs/User_Profile_3.png)
+![User_Profile_4 Child Male 15](./docs/User_Profile_4.png)
+![User_Profile_5 Child Female 13](./docs/User_Profile_5.png)
+![User_Profile_6 ChildFemale 8](./docs/User_Profile_6.png)
 
 **Parent/Admin User**
 *   Desires the ability to add their children as individual profiles within the app, allowing for personalised and easily managed wishlists for each child.
@@ -330,7 +330,7 @@ To gain a deeper and more nuanced understanding of our target audience, we devel
 
 *   Wants a clear and comprehensive "About" page, offering users a concise overview of the platform’s purpose, features, and benefits.
 
-*   Wants the ability to create a personalised account and securely log in, providing a customized experience with easy access to their preferences and account settings.
+*   Wants the ability to create a personalised account and securely log in, providing a customised experience with easy access to their preferences and account settings.
 
 *   Wants the option to add friends and family members to their account, enabling seamless interaction and collaboration within the platform.
 
@@ -347,18 +347,18 @@ To gain a deeper and more nuanced understanding of our target audience, we devel
 
 The wireframes can be viewed in the [PresentPals](https://www.figma.com/design/vPTSsXFEPWThJec5qK5Bo5/PresentPals?node-id=0-1&t=GZfS7PRp5mvqkPUg-1) Figma workspace.
 
-![PresentPals Logo](./images/Full%20Logo.png)
+![PresentPals Logo](./docs/Full%20Logo.png)
 
 ### Colour Palette
 
 For the design, our main objective was to evoke a sense of tranquility and warmth, something that would resonate with both young and older generations, while maintaining an air of sophistication. We selected the timeless Tiffany blue to establish a serene and refined atmosphere of quality, enhancing the space with a sense of understated elegance. To further elevate the overall aesthetic, we incorporated sleek black accents, which serve to complement and enrich the design. The logo itself features a signature Tiffany blue gift box, gracefully transitioning into a subtle silver gradient nameplate, while the deep black background offers a striking yet refined contrast, adding to its depth and an elevated sense of luxury to the composition.
 
-![Color Palette](./images/Colour%20Palette.png)
+![Color Palette](./docs/Colour%20Palette.png)
 
 ### Typography
 For the typography, we placed a strong emphasis on readability while maintaining an elevated aesthetic. For the headings and body text, we opted for a clean, modern font, called Teacher, chosen specifically for its clarity and legibility, ensuring a smooth reading experience across digital platforms. This choice promotes ease of comprehension while contributing to a sleek, contemporary look. 
 
-![Example Logo](./images/Logo.png)
+![Example Logo](./docs/Logo.png)
 
 The logo features a distinctive custom-designed font that immediately captures attention, exuding a sense of boldness and individuality. Its striking appearance is enhanced by a sophisticated silver chrome finish, which imparts a luxurious, metallic sheen. This polished effect not only elevates the overall visual impact but also adds depth and richness to the font, reinforcing the logo's premium, high-end appeal. The combination of the unique typeface and the reflective metallic tone creates a dynamic and memorable mark that is both modern and refined.
 
@@ -377,7 +377,7 @@ Provided is a breakdown of our wireframes on the following devices:
 A commonly used version of the Login Page
 
 
-![Login](./images/Wireframe_LoginPage.png)
+![Login](./docs/Wireframe_LoginPage.png)
 
 
 
@@ -385,13 +385,13 @@ A commonly used version of the Login Page
 
 A generalised sign up page, that is fairly common with most websites.
 
-![Sign Up](./images/Wireframe_SignUp.png)
+![Sign Up](./docs/Wireframe_SignUp.png)
 
 ### Profile Page
 
 The example provided for the profile page, is for a family, Parent (is the admin) and the child has a profile. We decided to create a family account (like Netflix, Stan, Disney+) as most children will not have an email or social media account, required to login
 
-![Profile Page](./images/Wireframe_ProfilePage.PNG)
+![Profile Page](./docs/Wireframe_ProfilePage.PNG)
 
 ### Giftlist Page
 
@@ -401,7 +401,7 @@ In this example we have provided the following:
 
 The lists that are shared will be accessible via this page. Each list will be public for a certain amount of time, afterwards they will be archived.
 
-![Giftlist Page](./images/Wireframe_GiftListPage.PNG)
+![Giftlist Page](./docs/Wireframe_GiftListPage.PNG)
 
 
 ### Create a List
@@ -410,23 +410,23 @@ The steps to create a wishlist are details across the following pages:
 
 Page A
 
-![Create A List Page - A](./images/Wireframe_CreateAList_PartA.png)
+![Create A List Page - A](./docs/Wireframe_CreateAList_PartA.png)
 
 Page B
 
-![Create A List Page - B](./images/Wireframe_CreateAList_PartB.png)
+![Create A List Page - B](./docs/Wireframe_CreateAList_PartB.png)
 
 ### Itemised List
 
 A view of the items on the gift list
 
-![Gift list items](./images/Wireframe_Giftlist_Items.png)
+![Gift list items](./docs/Wireframe_Giftlist_Items.png)
 
 ### Item Details
 
 Provide a breakdown of the item on the list, with an image, item name, pricing, link to the website (where the item can be purchased), and then additional notes (eg sizing, colour preference).
 
-![Item Details](./images/Wireframe_Item-Details.png)
+![Item Details](./docs/Wireframe_Item-Details.png)
 
 # R6. Project Management
 
@@ -441,11 +441,11 @@ The flexibility of Trello allowed us to configure the board to suit the specific
 
 Ultimately, the combination of the Kanban approach with Trello’s digital platform created an organised, adaptable, and highly effective task management system that empowered our team to remain on track, and focused, and aligned our productiveness from start to finish for each task.
 
-![Trello Board_1](./images/Trello_Board_1.png)
+![Trello Board_1](./docs/Trello_Board_1.png)
 
-![Trello Board_2](./images/Trello_Board_2.png)
+![Trello Board_2](./docs/Trello_Board_2.png)
 
-![Trello Board_3](./images/Trello_Board_3.png)
+![Trello Board_3](./docs/Trello_Board_3.png)
 
-![Trello Board - Example](./images/Trello_Board_Data_Flow.png)
+![Trello Board - Example](./docs/Trello_Board_Data_Flow.png)
 

@@ -10,9 +10,9 @@ The PresentPals dev team will be using Git & Github for version control:
 
 #### View via this link: [PresentPals Github Repository](https://github.com/PresentPals)
 
-![Github repo image](./images/Github%20repo%20image.png)
+![Github repo image](./Github%20repo%20image.png)
     
 The team will store code repositories of the applications main source code, development code branch and individual dev team task branches working on. This image will explain the version control process:
 
-![Version control process](./images/Github%20diagram.png)
+![Version control process](./Github%20diagram.png)
 
